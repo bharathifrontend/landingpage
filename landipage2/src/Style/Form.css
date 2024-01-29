@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+Form {
+  background-color: rgb(192, 192, 157);
+  color: black;
+  margin: 10px;
+  padding: 10px;
+}
